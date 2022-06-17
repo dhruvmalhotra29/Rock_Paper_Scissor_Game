@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+test_data
+train_data
+Game.ipynb
+Image_Pre-Processing.ipynb
